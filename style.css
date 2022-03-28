@@ -1,14 +1,14 @@
-*{
+* {
   margin: 0;
   padding: 0;
   margin: 20px auto 10px auto;
 }
 
-header, #button-border, #button-image{
+header, #button-border, #button-image { 
   text-align: center;
 }
 
-#meme-image-container{
+#meme-image-container {
 	width: 382px;
   height: 382px;
 	position: relative;
@@ -16,11 +16,11 @@ header, #button-border, #button-image{
 	object-fit: cover;
 }
 
-.container{
+.container {
   border: solid 1px black;
 }
 
-#meme-image{
+#meme-image {
   width: 378px;
   height: 378px;
   padding: 1px;
@@ -34,7 +34,7 @@ header, #button-border, #button-image{
 	left: 1px;
 }
 
-#meme-text{
+#meme-text {
 	font-size: 30px;
 	margin: 0;
 	color: white;
@@ -46,7 +46,7 @@ header, #button-border, #button-image{
 	width: 300px;
 }
 
-#fire{
+#fire {
 	background-color: red;
 	padding: 6px;
 	text-align: center;
@@ -55,11 +55,11 @@ header, #button-border, #button-image{
 	font-size: 14px;
 }
 
-.fire{
+.fire {
 	border: dashed 3px red;
 }
 
-#water{
+#water {
 	background-color: blue;
 	padding: 6px;
 	text-align: center;
@@ -68,11 +68,11 @@ header, #button-border, #button-image{
 	font-size: 14px;
 }
 
-.water{
+.water {
 	border: double 5px blue;
 }
 
-#earth{
+#earth {
 	background-color: green;
 	padding: 6px;
 	text-align: center;
@@ -81,11 +81,11 @@ header, #button-border, #button-image{
 	font-size: 14px;
 }
 
-.earth{
+.earth {
 	border: groove 6px green;
 }
 
-#meme-1{
+#meme-1 {
   border: solid 1px black;
   height: 60px;
   width: 60px;
@@ -94,7 +94,7 @@ header, #button-border, #button-image{
   display: inline-block;
 }
 
-#meme-2{
+#meme-2 {
   border: solid 1px black;
   height: 60px;
   width: 60px;
@@ -103,7 +103,7 @@ header, #button-border, #button-image{
   display: inline-block;
 }
 
-#meme-3{
+#meme-3 {
   border: solid 1px black;
   height: 60px;
   width: 60px;
@@ -112,7 +112,7 @@ header, #button-border, #button-image{
   display: inline-block;
 }
 
-#meme-4{
+#meme-4 {
   border: solid 1px black;
   height: 60px;
   width: 60px;
