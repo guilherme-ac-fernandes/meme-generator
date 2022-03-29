@@ -7,6 +7,6 @@
 
 #### Demostração
 <p align="center">
-  <img src="https://github.com/guilherme-ac-fernandes/trybe-projetos/blob/main/meme-generator/meme-generator.gif" alt="Meme Generator Gif - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/meme-generator/blob/main/meme-generator.gif" alt="Meme Generator Gif - Demostração"/>
 </p>
 
