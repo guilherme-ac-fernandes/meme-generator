@@ -1,4 +1,4 @@
-## Game - Meme Generator
+## Projeto Meme Generator
 
 #### Consiste em um site capaz de fazer upload de fotos para criação de memes.
 > Esta aplicação foi desenvolvida utilizando JavaScript, HTML5 e CSS3.
