@@ -1,12 +1,13 @@
-## Projeto Meme Generator
+# Projeto Meme Generator 😂
 
-#### Consiste em um site capaz de fazer upload de fotos para criação de memes.
-> Esta aplicação foi desenvolvida utilizando JavaScript, HTML5 e CSS3.
+Consiste em um site capaz de fazer upload de fotos para criação de memes.
 
-:point_right: **Acessar:** _[Clique Aqui](https://guilherme-ac-fernandes.github.io/meme-generator/)_
+* Construída utilizado HTML5, CSS3 e JavaScript.
 
-#### Demostração
+### Demonstração
+
+👨🏻‍💻 **Acessar:** _[Clique Aqui](https://guilherme-ac-fernandes.github.io/meme-generator/)_
+
 <p align="center">
   <img src="https://github.com/guilherme-ac-fernandes/meme-generator/blob/main/meme-generator.gif" alt="Meme Generator Gif - Demostração"/>
 </p>
-
